@@ -55,3 +55,6 @@ O sistema utiliza MySQL. O banco principal utilizado pelo projeto é `bibliotech
 ## Versionamento
 
 O projeto utiliza Git e GitHub para controle de versão. As alterações são registradas por meio de commits e sincronizadas com o repositório remoto por operações de push e pull.
+
+Projeto desenvolvido para a Etapa 5 do Projeto Integrador.
+
