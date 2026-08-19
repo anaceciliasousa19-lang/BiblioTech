@@ -58,3 +58,5 @@ O projeto utiliza Git e GitHub para controle de versão. As alterações são re
 
 Projeto desenvolvido para a Etapa 5 do Projeto Integrador.
 
+Última atualização: Etapa 5.
+
